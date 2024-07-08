@@ -1,0 +1,1 @@
+token grabber all u need to do is open it and it will make a folder with a file inside of it then send the file to who ever u want to token grab once they open the file u get another file added into the same folder where u got the file and thats where the token is stored
